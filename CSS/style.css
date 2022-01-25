@@ -1,0 +1,11 @@
+.slider-btn{
+    color: black;
+    height: 44px;
+    width: 168px;
+    font-weight: bold;
+    background-image: linear-gradient(to bottom, #74c4ca 0%, #a477c4 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
