@@ -37,3 +37,27 @@
 .custom-crd-design .card-btn{
     background-color: white;
 }
+
+.footer-right{
+    height: 140px;
+    width: 160px;
+    color: white;
+}
+
+.footer-right .apple-logo{
+    display: flex;
+    height: 55px;
+    width: 140px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.fa-apple{
+    height: 30px;
+    width: 22px;
+}
+
+.footer-right .android-logo{
+    height: 40px;
+    width: 135px;
+}
