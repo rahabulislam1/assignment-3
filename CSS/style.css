@@ -23,3 +23,17 @@
     border-radius: 24px;
     font-weight: 500;
 }
+
+.custom-crd-design{
+    background-color: rgba(63, 135, 245, 1);
+    border-radius: 26px;
+    color: white;
+}
+
+.custom-crd-design .fa-check-circle{
+    color: rgba(15, 5, 90, 0.397);
+}
+
+.custom-crd-design .card-btn{
+    background-color: white;
+}
