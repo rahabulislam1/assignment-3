@@ -9,3 +9,17 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.fa-check-circle{
+    color: rgba(32, 14, 168, 0.397);
+}
+
+.card-btn{
+    color: rgba(63, 135, 245, 1);
+    height: 45px;
+    width: 207px;
+    background-color: rgba(244, 150, 210, 0.185);
+    border: none;
+    border-radius: 24px;
+    font-weight: 500;
+}
